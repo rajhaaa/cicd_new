@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="cache_resources">
+    <Basepaths>/v1/cache_resources</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1540772326622</CreatedAt>
+    <CreatedBy>sraja9890@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>cache_resources</DisplayName>
+    <LastModifiedAt>1540772612558</LastModifiedAt>
+    <LastModifiedBy>sraja9890@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:7a7e5b6e106fdfaaf6b5f02876105bbe9e9cd0385a0cbb8dff2fe640357bca09cdd060903620af5cdf1c5081576a44466288921d92e2c5bb54f8fcdeaa351a0c</ManifestVersion>
+    <Policies>
+        <Policy>Response-Cache-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

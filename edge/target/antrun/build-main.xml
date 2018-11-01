@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy toDir="C:\Users\rajas\Desktop\CICD\Demo-proxy\edge/target/classes">
+    <fileset dir="C:\Users\rajas\Desktop\CICD\Demo-proxy\edge/target">
+      <include name="apiproxy/**"/>
+    </fileset>
+  </copy>
+</target>
+</project>

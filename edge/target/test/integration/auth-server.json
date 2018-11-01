@@ -1,0 +1,4 @@
+{
+    "domain": "http://sraja9890-eval-test.apigee.net:80",
+    "basepath": "/oauth/client_credential"
+}
